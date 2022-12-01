@@ -1,0 +1,22 @@
+body
+{
+    background-color: mediumvioletred;
+    color: white;
+}
+#score
+{
+    color: white;
+    font-size: 25px;
+    margin-left: 500px;
+}
+#timer
+{
+    color: white;
+    font-size: 25px;
+    margin-right: 800px;
+}
+#random_number
+{
+    color: white;
+    font-size: 20px;
+}
